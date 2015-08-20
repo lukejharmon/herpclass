@@ -1,8 +1,8 @@
-title: Long Haul
-description: Long Form Jekyll theme built with SASS / COMPASS / SUSY
+title: Biology 489, Herpetology
+description: Herpetology at the University of Idaho Fall 2015
 
-url: http://brianmaierjr.github.com/long-haul
-baseurl: "/long-haul"
+url: http://lukejharmon.github.io/herpclass/
+baseurl: "/herpclass"
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
 
@@ -19,9 +19,9 @@ navigation:
    url: /contact
 
 social:
-   github: brianmaierjr
-   twitter: brianmaierjr
-   facebook: brianmaierjr
-   email: brimaidesigns@gmail.com
+   github: lukejharmon
+   twitter: lukejharmon
+   facebook: lukejharmon
+   email: lukeh@uidaho.edu
 
-google_analytics: "UA-58263416-1"
+google_analytics: ""
