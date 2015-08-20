@@ -1,11 +1,11 @@
 ---
 layout: default
-title: About Long Haul
+title: Class syllabus
 ---
 
 <div class="post">
 	<h1 class="pageTitle">Class syllabus</h1>
-	<center><img src="{{ '/assets/img/spottedSalamander.jpg' | prepend: site.baseurl }}" alt=""> </center>
+	<center><img src="{{ '/assets/img/SpottedSalamander.jpg' | prepend: site.baseurl }}" alt=""> </center>
 
 	<div class=WordSection1>
 
