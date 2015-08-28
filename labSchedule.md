@@ -2,4 +2,4 @@
 layout: default
 title: Lab schedule
 ---
-TBD
+TBD* coming soon
