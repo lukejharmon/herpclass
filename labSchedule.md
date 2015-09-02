@@ -4,4 +4,4 @@ title: Lab schedule
 ---
 Tuesday (Sept 1st) and Thursday (Sept 3rd) Herp Field Trip: Meet in front of the biology building at 1230 pm by the parking permits
 
-Lab
+Lab next week (Sept 8th and 10th) on Idaho Reptiles - please look on Digital Atlas of Idaho to learn what reptiles are in Idaho
