@@ -6,7 +6,14 @@ title: Lecture schedule
 - August 24: Lecture: [Macroevolution]({{ site.baseurl}}/blog/macro-lecture/)
 - August 26: Discuss reading: [Pyron et al.]({{ site.baseurl}}/assets/papers/Pyron_et_al_2013b.pdf)
 - August 28: Skype with [Alex Pyron](http://www.colubroid.org/)
-<br>
+<br><br>
 - August 31: Lecture: [Phylogeography and Biogeography]({{ site.baseurl}}/blog/lecture-2/)
 - September 2: Discuss reading: [Leache et al.]({{ site.baseurl }}/assets/papers/leache.pdf)
 - September 4: Skype with [Adam Leache](http://faculty.washington.edu/leache/wordpress/)
+<br><br>
+- September 9: Finish Lecture [Phylogeography and Biogeography]({{ site.baseurl}}/blog/lecture-2/)
+- September 11: Guest visit by [Travis Hagey](http://travis-hagey.weebly.com/). Please read [this paper]({{ site.baseurl }}/assets/papers/australia_gecko_habitat_aug2015.pdf) and be prepared to discuss.
+<br><br>
+- September 14: Lecture: [Homeostasis - coming soon]()
+- September 16: Discuss reading: [Pyron and Burbrink 2015]({{ site.baseurl }}/assets/papers/pyron_burbrink_jez.pdf)
+- September 18: Skype with [Frank Burbrink](http://csivc.csi.cuny.edu/Frank.Burbrink/files/index.html)
