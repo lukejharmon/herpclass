@@ -14,6 +14,7 @@ title: Lecture schedule
 - September 9: Finish Lecture [Phylogeography and Biogeography]({{ site.baseurl}}/blog/lecture-2/)
 - September 11: Guest visit by [Travis Hagey](http://travis-hagey.weebly.com/). Please read [this paper]({{ site.baseurl }}/assets/papers/australia_gecko_habitat_aug2015.pdf) and be prepared to discuss.
 <br><br>
-- September 14: Lecture: [Homeostasis - coming soon]()
+- September 14: Lecture: [Homeostasis]({{ site.baseurl}}/blog/lecture-3/)
 - September 16: Discuss reading: [Pyron and Burbrink 2015]({{ site.baseurl }}/assets/papers/pyron_burbrink_jez.pdf)
 - September 18: Skype with [Frank Burbrink](http://csivc.csi.cuny.edu/Frank.Burbrink/files/index.html)
+<br><br>
