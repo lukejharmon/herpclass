@@ -8,3 +8,5 @@ Lab next week (Sept 8th and 10th) on Idaho Reptiles - please look on [Digital At
 -If you have a laptop, please bring to class. Also bring your field guides.
 
 Week 1 [PowerPoint on Idaho Reptiles]({{ site.baseurl}}/assets/papers/idaho_reptiles_lab.pdf)
+
+Week 2 [PowerPoint on Idaho Amphibians]({{ site.baseurl}}/assets/papers/idaho_amphibians_lab.pdf)
