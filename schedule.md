@@ -18,3 +18,7 @@ title: Lecture schedule
 - September 16: Discuss reading: [Pyron and Burbrink 2015]({{ site.baseurl }}/assets/papers/pyron_burbrink_jez.pdf)
 - September 18: Skype with [Frank Burbrink](http://csivc.csi.cuny.edu/Frank.Burbrink/files/index.html)
 <br><br>
+- September 21: Lecture: [Energy]({{ site.baseurl}}/blog/lecture-4/)
+- September 23: Discuss reading: [Savage et al 2015]({{ site.baseurl }}/assets/papers/savage.pdf)
+- September 25: Skype with [Kelly Zamudio](http://www.eeb.cornell.edu/zamudio/KZ_Home/Welcome/Welcome.html)
+<br><br>
