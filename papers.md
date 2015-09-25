@@ -23,3 +23,7 @@ Week of September 7:
 Week of September 14:
 
 [Pyron, R. A. and F. T. Burbrink. 2015. Contrasting models of parity-mode evolution in squamate reptiles. J Exp Zool 324B: 467.]({{ site.baseurl }}/assets/papers/pyron_burbrink_jez.pdf)
+
+Week of September 21:
+
+[Savage, A. E., C. G. Becker, and K. R. Zamudio. 2015. Linking genetic and environmental factors in amphibian disease risk. Evol. Appl. 8: 560.]({{ site.baseurl }}/assets/papers/savage.pdf)

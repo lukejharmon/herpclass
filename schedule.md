@@ -22,3 +22,6 @@ title: Lecture schedule
 - September 23: Discuss reading: [Savage et al 2015]({{ site.baseurl }}/assets/papers/savage.pdf)
 - September 25: Skype with [Kelly Zamudio](http://www.eeb.cornell.edu/zamudio/KZ_Home/Welcome/Welcome.html)
 <br><br>
+- September 28: Lecture: [Reproduction]({{ site.baseurl}}/blog/lecture-5/)
+- September 30: Finish lecture, review. [Practice exam]({{ site.baseurl }}/assets/papers/exam1_v2.pdf)
+- October 2: Exam 1
