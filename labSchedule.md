@@ -10,3 +10,5 @@ Lab next week (Sept 8th and 10th) on Idaho Reptiles - please look on [Digital At
 Week 1 [PowerPoint on Idaho Reptiles]({{ site.baseurl}}/assets/papers/idaho_reptiles_lab.pdf)
 
 Week 2 [PowerPoint on Idaho Amphibians]({{ site.baseurl}}/assets/papers/idaho_amphibians_lab.pdf)
+
+Week 3 [PowerPoint on Frog Diversity from Lab]({{ site.baseurl}}/assets/papers/frog_diversity.pdf), [Powerpoint on Frog Diversity with Phylogeny]({{ site.baseurl}}/assets/papers/frog_diversity_extended.pdf), [Frog Family Phylogeny Handout]({{ site.baseurl}}/assets/papers/frog_phylogeny.pdf)
