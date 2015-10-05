@@ -25,3 +25,7 @@ title: Lecture schedule
 - September 28: Lecture: [Reproduction]({{ site.baseurl}}/blog/lecture-5/)
 - September 30: Finish lecture, review. [Practice exam]({{ site.baseurl }}/assets/papers/exam1_v2.pdf)
 - October 2: Exam 1
+<br><br>
+- October 5: Lecture: [Locomotion]()
+- October 7: Discuss reading: [Beaupre and Montgomery 2007]({{ site.baseurl }}/assets/papers/montgomery.pdf)
+- October 9: Skype with [Chad Montgomery](http://chadmont.sites.truman.edu/)
