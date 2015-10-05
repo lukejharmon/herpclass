@@ -27,3 +27,9 @@ Week of September 14:
 Week of September 21:
 
 [Savage, A. E., C. G. Becker, and K. R. Zamudio. 2015. Linking genetic and environmental factors in amphibian disease risk. Evol. Appl. 8: 560.]({{ site.baseurl }}/assets/papers/savage.pdf)
+
+Week of October 5:
+
+[Beaupre, S.J. and C.E. Montgomery. 2007. The meaning and consequences of foraging mode in snakes.
+In: The Evolutionary Consequences of Foraging Mode. S. Reilly, L. McBrayer, and D. Miles eds.,
+Cambridge University Press.]({{ site.baseurl }}/assets/papers/montgomery.pdf)
