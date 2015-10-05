@@ -12,3 +12,7 @@ Week 1 [PowerPoint on Idaho Reptiles]({{ site.baseurl}}/assets/papers/idaho_rept
 Week 2 [PowerPoint on Idaho Amphibians]({{ site.baseurl}}/assets/papers/idaho_amphibians_lab.pdf)
 
 Week 3 [PowerPoint on Frog Diversity from Lab]({{ site.baseurl}}/assets/papers/frog_diversity.pdf), [Powerpoint on Frog Diversity with Phylogeny]({{ site.baseurl}}/assets/papers/frog_diversity_extended.pdf), [Frog Family Phylogeny Handout]({{ site.baseurl}}/assets/papers/frog_phylogeny.pdf)
+
+Week 4 [PowerPoint on Salamander Diversity from Lab]({{ site.baseurl}}/assets/papers/salamander_diversity.pdf), [Powerpoint on Salamander Diversity with Phylogeny]({{ site.baseurl}}/assets/papers/salamander_diversity_extended.pdf)
+
+Extra Credit Possibility on October 30th 5-8 pm. I will be the guest expert for the Reptile and Amphibian station at the 8th Annual Animals of the Night education fundraiser. To get the points, you will need to attend the entire night and just be a body to help me out. More details to come.
