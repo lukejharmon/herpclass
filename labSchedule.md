@@ -15,4 +15,6 @@ Week 3 [PowerPoint on Frog Diversity from Lab]({{ site.baseurl}}/assets/papers/f
 
 Week 4 [PowerPoint on Salamander Diversity from Lab]({{ site.baseurl}}/assets/papers/salamander_diversity.pdf), [Powerpoint on Salamander Diversity with Phylogeny]({{ site.baseurl}}/assets/papers/salamander_diversity_extended.pdf)
 
-Extra Credit Possibility on October 30th 5-8 pm. I will be the guest expert for the Reptile and Amphibian station at the 8th Annual Animals of the Night education fundraiser. To get the points, you will need to attend the entire night and just be a body to help me out. More details to come.
+Extra Credit Possibility on October 30th 5-8 pm. I will be the guest expert for the Reptile and Amphibian station at the 8th Annual Animals of the Night education fundraiser. To get the points, you will need to attend the entire night and just be a body to help me out. [More details to come]({{ site.baseurl}}/assets/papers/extra_credit.pdf)
+
+Week 6 [Worksheet for Skulls Lab]({{ site.baseurl}}/assets/papers/skulls_lab.pdf)
