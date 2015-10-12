@@ -31,8 +31,8 @@ title: Lecture schedule
 - October 9: Skype with [Chad Montgomery](http://chadmont.sites.truman.edu/)
 <br><br>
 - October 12: Lecture: [Feeding]({{ site.baseurl }}/blog/lecture-6)
-- October 14: Discuss reading:
-- October 16: Skype with Emma Sherratt
+- October 14: Discuss reading: [Sherratt et al 2014]({{ site.baseurl }}/assets/sherratt.pdf)
+- October 16: Skype with [Emma Sherratt](http://www.emmasherratt.com/)
 <br><br>
 - October 19:
 - October 21: Guest lecture: Daniel Caetano
