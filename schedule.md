@@ -34,9 +34,9 @@ title: Lecture schedule
 - October 14: Discuss reading: [Sherratt et al 2014]({{ site.baseurl }}/assets/papers/sherratt.pdf)
 - October 16: Skype with [Emma Sherratt](http://www.emmasherratt.com/)
 <br><br>
-- October 19:
-- October 21: Guest lecture: Daniel Caetano
-- October 23: Lecture: movement
+- October 19: TBD
+- October 21: Guest lecture: [Daniel Caetano](http://caetanods.weebly.com/)
+- October 23: Lecture: [Movement]({{ site.baseurl }}/blog/lecture-7)
 <br><br>
 - October 26: Lecture: mating systems
 - October 28: Lecture: mating systems (cont)
