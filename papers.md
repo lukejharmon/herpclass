@@ -33,3 +33,7 @@ Week of October 5:
 [Beaupre, S.J. and C.E. Montgomery. 2007. The meaning and consequences of foraging mode in snakes.
 In: The Evolutionary Consequences of Foraging Mode. S. Reilly, L. McBrayer, and D. Miles eds.,
 Cambridge University Press.]({{ site.baseurl }}/assets/papers/montgomery.pdf)
+
+Week of October 12:
+
+[Sherratt, E., Gower, D.J., Klingenberg, C.P., Wilkinson, M. 2014 Evolution of cranial shape in caecilians (Amphibia: Gymnophiona). Evolutionary Biology, 41(4): 528-545.]({{ site.baseurl }}/assets/papers/sherratt.pdf)
