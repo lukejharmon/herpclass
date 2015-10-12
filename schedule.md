@@ -29,3 +29,38 @@ title: Lecture schedule
 - October 5: Lecture: finish [Reproduction]({{ site.baseurl}}/blog/lecture-5/)
 - October 7: Discuss reading: [Beaupre and Montgomery 2007]({{ site.baseurl }}/assets/papers/montgomery.pdf)
 - October 9: Skype with [Chad Montgomery](http://chadmont.sites.truman.edu/)
+<br><br>
+- October 12: Lecture: [Feeding]({{ site.baseurl }}/blog/lecture-6)
+- October 14: Discuss reading:
+- October 16: Skype with Emma Sherratt
+<br><br>
+- October 19:
+- October 21: Guest lecture: Daniel Caetano
+- October 23: Lecture: movement
+<br><br>
+- October 26: Lecture: mating systems
+- October 28: Lecture: mating systems (cont)
+- October 30: Review for exam 2
+<br><br>
+- November 2: Diets
+- November 4: Discuss reading: (also Exam 2 day)
+- November 6: Skype with Simone Des Roches
+<br><br>
+- November 9: Populations and communities
+- November 11: Populations and communities
+- November 13: Skype with Jonathan Losos
+<br><br>
+- November 16: Group presentations
+- November 18: Group presentations
+- November 20: Group presentations
+<br><br>
+- November 23-27: THANKSGIVING BREAK
+<br><br>
+- November 30: Conservation
+- December 2: Discuss reading:
+- December 4: Guest visit: Josef Uyeda
+<br><br>
+- November 7: Synthesis of herpetology
+- December 9: Discuss reading:
+- December 11: Cane Toads
+<br><br>
