@@ -36,7 +36,7 @@ title: Lecture schedule
 <br><br>
 - October 19: Guest lecture: [Andy Kraemer](https://andrewckraemer.wordpress.com/)
 - October 21: Guest lecture: [Daniel Caetano](http://caetanods.weebly.com/)
-- October 23: Skype with [Emily Taylor](http://bio.calpoly.edu/content/Taylor)
+- October 23: Skype with [Emily Taylor](http://bio.calpoly.edu/content/Taylor). Read [this paper]({{ site.baseurl }}/assets/papers/taylor.pdf)
 <br><br>
 - October 26: Lecture: mating systems
 - October 28: Lecture: mating systems (cont)

@@ -37,3 +37,7 @@ Cambridge University Press.]({{ site.baseurl }}/assets/papers/montgomery.pdf)
 Week of October 12:
 
 [Sherratt, E., Gower, D.J., Klingenberg, C.P., Wilkinson, M. 2014 Evolution of cranial shape in caecilians (Amphibia: Gymnophiona). Evolutionary Biology, 41(4): 528-545.]({{ site.baseurl }}/assets/papers/sherratt.pdf)
+
+Week of October 19:
+
+[Holding, Matthew L., Julius A. Frazier, Scott W. Dorr, Sloane N. Henningsen, Ignacio T. Moore, and Emily N. Taylor. 2014. Physiological and Behavioral Effects of Repeated Handling and Short-Distance Translocations on Free-Ranging Northern Pacific Rattlesnakes (Crotalus oreganus oreganus). Journal of Herpetology, 48(2):233-239.]({{ site.baseurl }}/assets/papers/taylor.pdf)
