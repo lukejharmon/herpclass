@@ -38,15 +38,15 @@ title: Lecture schedule
 - October 21: Guest lecture: [Daniel Caetano](http://caetanods.weebly.com/)
 - October 23: Skype with [Emily Taylor](http://bio.calpoly.edu/content/Taylor). Read [this paper]({{ site.baseurl }}/assets/papers/taylor.pdf)
 <br><br>
-- October 26: Lecture: mating systems
-- October 28: Lecture: mating systems (cont)
+- October 26: Lecture: [Movement]({{ site.baseurl }}/blog/lecture-7)
+- October 28: Lecture: [Communication]({{ site.baseurl }}/blog/lecture-7)
 - October 30: Review for exam 2
 <br><br>
-- November 2: Diets
+- November 2: Mating systems
 - November 4: Discuss reading: (also Exam 2 day)
 - November 6: Skype with Simone Des Roches
 <br><br>
-- November 9: Populations and communities
+- November 9: Diets
 - November 11: Populations and communities
 - November 13: Skype with Jonathan Losos
 <br><br>
