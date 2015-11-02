@@ -42,12 +42,12 @@ title: Lecture schedule
 - October 28: Lecture: [Communication]({{ site.baseurl }}/blog/lecture-7)
 - October 30: Review for exam 2
 <br><br>
-- November 2: Mating systems
-- November 4: Discuss reading: (also Exam 2 day)
-- November 6: Skype with Simone Des Roches
+- November 2: [Herps in Ecosystems]({{ site.baseurl }}/blog/lecture-8)
+- November 4: Do reading: [DesRoches et al. 2015]({{ site.baseurl }}/assets/papers/desrochesetal.pdf) - also Exam 2 day
+- November 6: Skype with [Simone Des Roches](http://www.simonedr.com/)
 <br><br>
-- November 9: Diets
-- November 11: Populations and communities
+- November 9: [Herps in Ecosystems]({{ site.baseurl }}/blog/lecture-8)
+- November 11: Discuss paper - [Losos et al.]()
 - November 13: Skype with Jonathan Losos
 <br><br>
 - November 16: Group presentations
