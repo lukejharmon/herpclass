@@ -20,3 +20,5 @@ Extra Credit Possibility on October 30th 5-8 pm. I will be the guest expert for 
 Week 6 [Worksheet for Skulls Lab]({{ site.baseurl}}/assets/papers/skulls_lab.pdf)
 
 Week 9 [Worksheet for Genome Lab]({{ site.baseurl}}/assets/papers/genomeLab_2015.pdf)
+
+Week 10 [Worksheet for Ecomorph Lab]({{ site.baseurl}}/assets/papers/anoleMesquite_2015.pdf) and [data for that lab]({{ site.baseurl}}/assets/papers/anolesLabdata.nex)
