@@ -47,8 +47,8 @@ title: Lecture schedule
 - November 6: Skype with [Simone Des Roches](http://www.simonedr.com/)
 <br><br>
 - November 9: [Herps in Ecosystems]({{ site.baseurl }}/blog/lecture-8)
-- November 11: Discuss paper - [Losos et al.]()
-- November 13: Skype with Jonathan Losos
+- November 11: Discuss paper - [Sherratt et al.](http://www.oeb.harvard.edu/faculty/losos/jblosos/pdfs/Sherratt%20et%20al.%202015.pdf)
+- November 13: Skype with [Jonathan Losos](http://www.oeb.harvard.edu/faculty/losos/)
 <br><br>
 - November 16: Group presentations
 - November 18: Group presentations

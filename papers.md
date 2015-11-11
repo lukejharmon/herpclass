@@ -41,3 +41,6 @@ Week of October 12:
 Week of October 19:
 
 [Holding, Matthew L., Julius A. Frazier, Scott W. Dorr, Sloane N. Henningsen, Ignacio T. Moore, and Emily N. Taylor. 2014. Physiological and Behavioral Effects of Repeated Handling and Short-Distance Translocations on Free-Ranging Northern Pacific Rattlesnakes (Crotalus oreganus oreganus). Journal of Herpetology, 48(2):233-239.]({{ site.baseurl }}/assets/papers/taylor.pdf)
+
+Week of Nov. 9:
+[Sherratt, E., M.d.R. Castañeda, Garwood, R.J., D.L. Mahler, T.J. Sanger, A. Herrel, K. de Queiroz, and J.B. Losos. 2015. Amber fossils demonstrate deep-time stability of Caribbean lizard communities. PNAS early edition DOI: 10.1073/pnas.1506516112.](http://www.oeb.harvard.edu/faculty/losos/jblosos/pdfs/Sherratt%20et%20al.%202015.pdf)
