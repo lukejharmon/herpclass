@@ -24,3 +24,5 @@ Week 9 [Worksheet for Genome Lab]({{ site.baseurl}}/assets/papers/genomeLab_2015
 Week 10 [Worksheet for Ecomorph Lab]({{ site.baseurl}}/assets/papers/anoleMesquite_2015.pdf) and [data for that lab]({{ site.baseurl}}/assets/papers/anolesLabdata.nex)
 
 Week 11 [Worksheet for Dissection Lab]({{ site.baseurl}}/assets/papers/lizard_dissection_2015.pdf)
+
+[Lab Practical Study Guide]({{ site.baseurl}}/assets/papers/study_guide_herp.pdf)
