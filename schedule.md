@@ -56,7 +56,7 @@ title: Lecture schedule
 <br><br>
 - November 23-27: THANKSGIVING BREAK
 <br><br>
-- November 30: Conservation
+- November 30: [Conservation]({{ site.baseurl }}/blog/lecture-9)
 - December 2: Discuss reading:
 - December 4: Guest visit: Josef Uyeda
 <br><br>
