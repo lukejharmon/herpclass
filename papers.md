@@ -44,3 +44,9 @@ Week of October 19:
 
 Week of Nov. 9:
 [Sherratt, E., M.d.R. Castañeda, Garwood, R.J., D.L. Mahler, T.J. Sanger, A. Herrel, K. de Queiroz, and J.B. Losos. 2015. Amber fossils demonstrate deep-time stability of Caribbean lizard communities. PNAS early edition DOI: 10.1073/pnas.1506516112.](http://www.oeb.harvard.edu/faculty/losos/jblosos/pdfs/Sherratt%20et%20al.%202015.pdf)
+
+Week of Nov. 30:
+[Uyeda, JC, Drewes, RC, and BM Zimkus. 2007. The California Academy of Sciences
+Gulf of Guinea Expeditions (2001, 2006) VI. A new species of Phrynobatrachus from the Gulf of
+Guinea islands and a reanalysis of Phrynobatrachus dispar and P. feae (Anura:
+Phrynobatrachidae). Proceedings of the California Academy of Sciences, 58(18):367-385.]({{ site.baseurl}}/assets/papers/uyeda.pdf)

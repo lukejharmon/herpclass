@@ -57,8 +57,8 @@ title: Lecture schedule
 - November 23-27: THANKSGIVING BREAK
 <br><br>
 - November 30: [Conservation]({{ site.baseurl }}/blog/lecture-9)
-- December 2: Discuss reading:
-- December 4: Guest visit: Josef Uyeda
+- December 2: Discuss reading: [Uyeda et al.]({{ site.baseurl}}/assets/papers/uyeda.pdf)
+- December 4: Guest visit: [Josef Uyeda](http://uyedaj.github.io/)
 <br><br>
 - November 7: Synthesis of herpetology
 - December 9: Discuss reading:
