@@ -61,6 +61,6 @@ title: Lecture schedule
 - December 4: Guest visit: [Josef Uyeda](http://uyedaj.github.io/)
 <br><br>
 - November 7: Synthesis of herpetology
-- December 9: Discuss reading:
-- December 11: Cane Toads
+- December 9: Cane Toads
+- December 11: Discuss reading: [Harmon and Harrison](http://lukejharmon.github.io/assets/HarmonandHarrison2015.pdf)
 <br><br>
