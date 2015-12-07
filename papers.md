@@ -50,3 +50,8 @@ Week of Nov. 30:
 Gulf of Guinea Expeditions (2001, 2006) VI. A new species of Phrynobatrachus from the Gulf of
 Guinea islands and a reanalysis of Phrynobatrachus dispar and P. feae (Anura:
 Phrynobatrachidae). Proceedings of the California Academy of Sciences, 58(18):367-385.]({{ site.baseurl}}/assets/papers/uyeda.pdf)
+
+Week of Dec 7:
+[Harmon, L. J. and S. Harrison. 2015. Species diversity is dynamic and unbounded at local and continental scales. The American Naturalist 185: 584-593.](http://lukejharmon.github.io/assets/HarmonandHarrison2015.pdf)
+along with
+[Rabosky, D. L. and A. H. Hurlbert. 2015. Species Richness at Continental Scales Is Dominated by Ecological Limits. The American Naturalist 185: 594-]({{ site.baseurl }}/assets/papers/rabosky.pdf)
