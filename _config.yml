@@ -14,13 +14,13 @@ navigation:
  - title: Home
    url: /index.html
  - title: Syllabus
-   url: /syllabus.html
+   url: /syllabus
  - title: Lecture
-   url: /schedule.html
+   url: /schedule
  - title: Lab
-   url: /labSchedule.html
+   url: /labSchedule
  - title: Contact
-   url: /contact.html
+   url: /contact
 
 social:
    github: lukejharmon

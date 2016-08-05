@@ -10,7 +10,7 @@ title: Class syllabus
 	<div class=WordSection1>
 
 	<p class=MsoNormal style='tab-stops:139.5pt'><b style='mso-bidi-font-weight:
-	normal'>Herpetology (Biology 489), University of Idaho, Fall 2015<o:p></o:p></b></p>
+	normal'>Herpetology (Biology 489), University of Idaho, Fall 2016<o:p></o:p></b></p>
 
 	<p class=MsoNormal style='tab-stops:139.5pt'><b style='mso-bidi-font-weight:
 	normal'>Class website: </b>lukejharmon.github.io/<span class=SpellE>herpclass</span><b
@@ -67,13 +67,6 @@ title: Class syllabus
 
 	<p class=MsoNormal style='tab-stops:1.75in 135.0pt'><o:p>&nbsp;</o:p></p>
 
-	<p class=MsoNormal style='tab-stops:1.75in 135.0pt'><b style='mso-bidi-font-weight:
-	normal'>Teaching assistant:</b><span style='mso-tab-count:1'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span
-	class=SpellE>Yannik</span> <span class=SpellE>Roell</span></p>
-
-	<p class=MsoNormal style='tab-stops:1.75in 135.0pt'><span style='mso-tab-count:
-	1'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span
-	class=GramE>yannik.roell@gmail.com</span></p>
 
 	<p class=MsoNormal style='tab-stops:1.25in 135.0pt 274.5pt'><o:p>&nbsp;</o:p></p>
 
