@@ -3,21 +3,21 @@ layout: default
 title: Lecture schedule
 ---
 
-- Aug. 22: Origins of tetrapods [lecture pdf]({{ site.baseurl }}/assets/lectures/01_origins_2016/pdf)
-- Aug. 24: Developmental biology and limb origins [reading]()
-- Aug. 26: How to skype with scientists
+- Aug. 22: Origins of tetrapods [lecture pdf]({{ site.baseurl }}/assets/lectures/01_origins_2016.pdf)
+- Aug. 24: Developmental biology and limb origins. Reading [Nakamura et al. 2016]({{ site.baseurl }}/assets/papers/nakamura_2016.pdf)
+- Aug. 26: How to skype with scientists. Additional reading [Zimmer 2016](http://www.nytimes.com/2016/08/18/science/from-fins-into-hands-scientists-discover-a-deep-evolutionary-link.html); if that is broken try [this]({{ site.baseurl }}/assets/papers/zimmer_2016.pdf)
 
-- Aug. 29: Origins of reptiles and amphibians [lecture pdf]()
-- Aug. 31: Phylogenetics of squamates [reading]()
-- Sept. 2: Skype discussion: [Alex Pyron]()
+- Aug. 29: Origins of reptiles and amphibians [Coming soon: lecture pdf]()
+- Aug. 31: Phylogenetics of squamates [reading]({{ site.baseurl }}/assets/papers/pyron_2016.pdf)
+- Sept. 2: Skype discussion: [Alex Pyron](http://www.colubroid.org/)
 
-- Sept. 5:
-- Sept. 7:
-- Sept. 9:
+- Sept. 5: Labor day
+- Sept. 7: Biogeography [Coming soon: lecture pdf]()
+- Sept. 9: Skype discussion: [Frank Burbrink](http://www.amnh.org/our-research/staff-directory/frank-t.-burbrink/). Reading is [Burbrink et al. 2015]({{ site.baseurl }}/assets/papers/burbrinketal_2015.pdf)
 
-- Sept. 12:
-- Sept. 14:
-- Sept. 16:
+- Sept. 12: Reproduction [Coming soon: lecture pdf]()
+- Sept. 14: The evolution of reproductive diversity [Portik and Blackburn 2016]({{ site.baseurl }}/assets/papers/Portik_et_al-2016-Evolution.pdf)
+- Sept. 16: Skype discussion: [David Blackburn](http://www.blackburnlab.org/)
 
 - Sept. 19:
 - Sept. 21:
