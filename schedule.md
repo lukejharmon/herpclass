@@ -4,7 +4,7 @@ title: Lecture schedule
 ---
 
 - Aug. 22: Origins of tetrapods [lecture pdf]({{ site.baseurl }}/assets/lectures/01_origins_2016.pdf)
-- Aug. 24: Developmental biology and limb origins. Reading [Nakamura et al. 2016]({{ site.baseurl }}/assets/papers/nakamura_2016.pdf) and in-class [slides explaining paper]({{ site.baseurl }}/assets/lectures/02_limbs.pdf)
+- Aug. 24: Developmental biology and limb origins. Reading [Nakamura et al. 2016]({{ site.baseurl }}/assets/papers/nakamura_2016.pdf) and in-class [slides explaining paper]({{ site.baseurl }}/assets/lectures/02_limbs.pdf). Also watch this [video about CRISPR](https://www.youtube.com/watch?v=MnYppmstxIs).
 - Aug. 26: How to skype with scientists. Additional reading [Zimmer 2016](http://www.nytimes.com/2016/08/18/science/from-fins-into-hands-scientists-discover-a-deep-evolutionary-link.html); or download a [pdf version]({{ site.baseurl }}/assets/papers/zimmer_2016.pdf)
 
 - Aug. 29: Origins of reptiles and amphibians [lecture pdf]({{ site.baseurl }}/assets/lectures/03_repamph.pdf)
