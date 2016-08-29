@@ -7,7 +7,7 @@ title: Lecture schedule
 - Aug. 24: Developmental biology and limb origins. Reading [Nakamura et al. 2016]({{ site.baseurl }}/assets/papers/nakamura_2016.pdf) and in-class [slides explaining paper]({{ site.baseurl }}/assets/lectures/02_limbs.pdf)
 - Aug. 26: How to skype with scientists. Additional reading [Zimmer 2016](http://www.nytimes.com/2016/08/18/science/from-fins-into-hands-scientists-discover-a-deep-evolutionary-link.html); or download a [pdf version]({{ site.baseurl }}/assets/papers/zimmer_2016.pdf)
 
-- Aug. 29: Origins of reptiles and amphibians [lecture pdf]({{ site.baseurl }}/lectures/03_repamph.pdf)
+- Aug. 29: Origins of reptiles and amphibians [lecture pdf]({{ site.baseurl }}/assets/lectures/03_repamph.pdf)
 - Aug. 31: Phylogenetics of squamates [reading]({{ site.baseurl }}/assets/papers/pyron_2016.pdf)
 - Sept. 2: Skype discussion: [Alex Pyron](http://www.colubroid.org/)
 
