@@ -10,6 +10,7 @@ title: Lecture schedule
 - Aug. 29: Origins of reptiles and amphibians [lecture pdf]({{ site.baseurl }}/assets/lectures/03_repamph.pdf)
 - Aug. 31: Phylogenetics of squamates [reading]({{ site.baseurl }}/assets/papers/pyron_2016.pdf)
 - Sept. 2: Skype discussion: [Alex Pyron](http://www.colubroid.org/)
+You can also read this related paper by [Losos et al](http://lososlab.oeb.harvard.edu/files/lososlab/files/losos_et_al._who_speaks_with_forked_tongue._2012.pdf)
 
 - Sept. 5: Labor day
 - Sept. 7: Biogeography [Coming soon: lecture pdf]()
