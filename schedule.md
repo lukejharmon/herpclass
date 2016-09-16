@@ -16,7 +16,7 @@ You can also read this related paper by [Losos et al](http://lososlab.oeb.harvar
 - Sept. 7: Biogeography [lecture pdf]({{ site.baseurl }}/assets/lectures/04_biogeog.pdf)
 - Sept. 9: Skype discussion: [Frank Burbrink](http://www.amnh.org/our-research/staff-directory/frank-t.-burbrink/). Reading is [Burbrink et al. 2015]({{ site.baseurl }}/assets/papers/burbrinketal_2015.pdf)
 
-- Sept. 12: Reproduction [Coming soon: lecture pdf]()
+- Sept. 12: Reproduction [lecture pdf]({{ site.baseurl }}/assets/lectures/05_reproductionI.pdf)
 - Sept. 14: The evolution of reproductive diversity [Portik and Blackburn 2016]({{ site.baseurl }}/assets/papers/Portik_et_al-2016-Evolution.pdf)
 - Sept. 16: Skype discussion: [David Blackburn](http://www.blackburnlab.org/)
 
