@@ -20,7 +20,7 @@ You can also read this related paper by [Losos et al](http://lososlab.oeb.harvar
 - Sept. 14: The evolution of reproductive diversity [Portik and Blackburn 2016]({{ site.baseurl }}/assets/papers/Portik_et_al-2016-Evolution.pdf)
 - Sept. 16: Skype discussion: [David Blackburn](http://www.blackburnlab.org/)
 
-- Sept. 19: Development [Coming soon: lecture pdf]()
+- Sept. 19: Development [lecture pdf]({{ site.baseurl }}/assets/lectures/06_development.pdf)
 - Sept. 21: How do new parasites form? [Falk et al. 2016]({{ site.baseurl }}/assets/papers/Falk_et_al-2015-Evolution.pdf)
 - Sept. 23: Skype discussion: [Susan Perkins](http://www.susanperkins.net/)
 
