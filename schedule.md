@@ -24,7 +24,7 @@ You can also read this related paper by [Losos et al](http://lososlab.oeb.harvar
 - Sept. 21: How do new parasites form? [Falk et al. 2016]({{ site.baseurl }}/assets/papers/Falk_et_al-2015-Evolution.pdf)
 - Sept. 23: Skype discussion: [Susan Perkins](http://www.susanperkins.net/)
 
-- Sept. 26: Homeostasis I [Coming soon: lecture pdf]()
+- Sept. 26: Homeostasis I [lecture pdf]({{ site.baseurl }}/assets/lectures/07_homeostasis.pdf)
 - Sept. 28: Phallus evolution [Sanger et al. 2015]({{ site.baseurl }}/assets/papers/sanger_2015.pdf)
 - Sept. 30: Skype discussion: [Thom Sanger](http://anolisevodevo.com/Sanger_Loyola_webpage/Home.html)
 
