@@ -13,4 +13,4 @@ September 15: Moscow Mountain
 
 September 22: Reptiles of Idaho
 
-September 29: Salamander diversity [notes]({{ site.baseurl }}/assets/lectures/SalamanderDiversityLab.pdf)
+September 29: Salamander diversity [notes]({{ site.baseurl }}/assets/lectures/SalamanderDiversityLab.pdfcd )

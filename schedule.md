@@ -28,8 +28,8 @@ You can also read this related paper by [Losos et al](http://lososlab.oeb.harvar
 - Sept. 28: Phallus evolution [Sanger et al. 2015]({{ site.baseurl }}/assets/papers/sanger_2015.pdf)
 - Sept. 30: Skype discussion: [Thom Sanger](http://anolisevodevo.com/Sanger_Loyola_webpage/Home.html)
 
-- Oct. 3: Homeostasis II [Coming soon: lecture pdf]()
-- Oct. 5: Review [Coming soon: pdf]()
+- Oct. 3: Homeostasis II [lecture pdf]({{ site.baseurl }}/assets/lectures/08_makeup.pdf)
+- Oct. 5: Review [pdf]({{ site.baseurl }}/assets/lectures/review.pdf)
 - Oct. 7: Exam I
 
 - Oct. 10: Energy Balance [Coming soon: lecture pdf]()
