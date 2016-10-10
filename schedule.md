@@ -32,7 +32,7 @@ You can also read this related paper by [Losos et al](http://lososlab.oeb.harvar
 - Oct. 5: Review [pdf]({{ site.baseurl }}/assets/lectures/review.pdf)
 - Oct. 7: Exam I
 
-- Oct. 10: Energy Balance [Coming soon: lecture pdf]()
+- Oct. 10: Energy Balance [lecture pdf]({{ site.baseurl }}/assets/lectures/09_energy.pdf)
 - Oct. 12: Costs and benefits of thermoregulation [Sears and Angilletta 2015]({{ site.baseurl }}/assets/papers/Sears_Angilletta_2015.pdf)
 - Oct. 14: Skype discussion: [Mike Sears](http://thermalecology.org/)
 
