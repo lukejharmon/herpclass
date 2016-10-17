@@ -36,7 +36,7 @@ You can also read this related paper by [Losos et al](http://lososlab.oeb.harvar
 - Oct. 12: Costs and benefits of thermoregulation [Sears and Angilletta 2015]({{ site.baseurl }}/assets/papers/Sears_Angilletta_2015.pdf)
 - Oct. 14: Skype discussion: [Mike Sears](http://thermalecology.org/)
 
-- Oct. 17: Biomechanics [Coming soon: lecture pdf]()
+- Oct. 17: Biomechanics of feeding [lecture pdf]({{ site.baseurl }}/assets/lectures/10_biomechanics.pdf)
 - Oct. 19: Evolution of caecilians [Sherratt et al. 2014]({{ site.baseurl }}/assets/papers/sherratt.pdf)
 - Oct. 21: Skype discussion: [Emma Sherratt](http://www.emmasherratt.com/)
 
