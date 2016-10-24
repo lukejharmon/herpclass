@@ -40,9 +40,9 @@ You can also read this related paper by [Losos et al](http://lososlab.oeb.harvar
 - Oct. 19: Evolution of caecilians [Sherratt et al. 2014]({{ site.baseurl }}/assets/papers/sherratt.pdf)
 - Oct. 21: Skype discussion: [Emma Sherratt](http://www.emmasherratt.com/)
 
-- Oct. 24:
-- Oct. 26:
-- Oct. 28:
+- Oct. 24: Spatial Ecology [lecture pdf]()
+- Oct. 26: Paper from Josef Uyeda [coming soon]({{ site.baseurl }}/assets/lectures/11_movement.pdf)
+- Oct. 28: Live discussion: [Josef Uyeda](http://uyedaj.github.io/)
 
 - Oct. 31:
 - Nov. 2:
