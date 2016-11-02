@@ -53,14 +53,14 @@ You can also read this related paper by [Losos et al](http://lososlab.oeb.harvar
 - Nov. 11: Ecosystems continued - lecture posted [above]({{ site.baseurl }}/assets/lectures/12_herpsInEcosystems.pdf)
 
 - Nov. 14: Communication [lecture pdf]({{ site.baseurl }}/assets/lectures/13_communication.pdf)
-- Nov. 16: Paper from Daniel Caetano [coming soon]()
+- Nov. 16: Paper from Daniel Caetano [pdf]({{ site.baseurl }}/assets/papers/caetano.pdf)
 - Nov. 18: Live discussion: [Daniel Caetano](http://caetanods.weebly.com/)
 
 - Nov. 21: No class - Thanksgiving break
 - Nov. 23: No class - Thanksgiving break
 - Nov. 25: No class - Thanksgiving break
 
-- Nov. 28: 
+- Nov. 28:
 - Nov. 30:
 - Dec. 2:
 
