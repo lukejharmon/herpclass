@@ -44,23 +44,23 @@ You can also read this related paper by [Losos et al](http://lososlab.oeb.harvar
 - Oct. 26: Paper from Josef Uyeda [pdf]({{ site.baseurl }}/assets/papers/uyeda.pdf)
 - Oct. 28: Live discussion: [Josef Uyeda](http://uyedaj.github.io/)
 
-- Oct. 31:
-- Nov. 2:
-- Nov. 4:
+- Oct. 31: Ecosystems [lecture pdf]({{ site.baseurl }}/assets/lectures/12_herpsInEcosystems.pdf)
+- Nov. 2: Paper from Jonathan Losos [pdf]({{ site.baseurl }}/assets/papers/stuart.pdf)
+- Nov. 4: Skype discussion: [Jonathan Losos](http://lososlab.oeb.harvard.edu/)
 
-- Nov. 7:
-- Nov. 9:
-- Nov. 11:
+- Nov. 7: No class
+- Nov. 9: No class
+- Nov. 11: Ecosystems continued - lecture posted [above]({{ site.baseurl }}/assets/lectures/12_herpsInEcosystems.pdf)
 
-- Nov. 14:
-- Nov. 16:
-- Nov. 18:
+- Nov. 14: Communication [lecture pdf]({{ site.baseurl }}/assets/lectures/13_communication.pdf)
+- Nov. 16: Paper from Daniel Caetano [coming soon]()
+- Nov. 18: Live discussion: [Daniel Caetano](http://caetanods.weebly.com/)
 
-- Nov. 21:
-- Nov. 23:
-- Nov. 25:
+- Nov. 21: No class - Thanksgiving break
+- Nov. 23: No class - Thanksgiving break
+- Nov. 25: No class - Thanksgiving break
 
-- Nov. 28:
+- Nov. 28: 
 - Nov. 30:
 - Dec. 2:
 
