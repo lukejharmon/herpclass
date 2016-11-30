@@ -60,10 +60,10 @@ You can also read this related paper by [Losos et al](http://lososlab.oeb.harvar
 - Nov. 23: No class - Thanksgiving break
 - Nov. 25: No class - Thanksgiving break
 
-- Nov. 28:
-- Nov. 30:
-- Dec. 2:
+- Nov. 28: Conservation [lecture pdf]({{ site.baseurl }}/assets/lectures/14_conservation.pdf)
+- Nov. 30: Paper from Kayla Hardwick [pdf]({{ site.baseurl }}/assets/papers/hardwicketal_2015.pdf)
+- Dec. 2: Skype discussion: [Kayla Hardwick] (https://kaylamhardwick.wordpress.com/)
 
-- Dec. 5:
-- Dec. 7:
-- Dec. 9:
+- Dec. 5: Cane toads film
+- Dec. 7: No class
+- Dec. 9: No class
