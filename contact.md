@@ -6,7 +6,7 @@ title: Contact
 <div id="contact">
   <h1 class="pageTitle">Contact Me</h1>
   <div class="contactContent">
-    <p class="intro">Email <a href=mailto:lukeh@uidaho.edu>lukeh@uidaho.edu</a></p>
+    <p class="intro">Email <a href="mailto:lukeh@uidaho.edu">lukeh@uidaho.edu</a></p>
     <p>Or if you are a spaz use this form</p>
   </div>
   <form action="http://formspree.io/brimaidesigns@gmail.com" method="POST">

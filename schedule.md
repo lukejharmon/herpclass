@@ -3,67 +3,70 @@ layout: default
 title: Lecture schedule
 ---
 
-- Aug. 22: Origins of tetrapods [lecture pdf]({{ site.baseurl }}/assets/lectures/01_origins_2016.pdf)
-- Aug. 24: Developmental biology and limb origins. Reading [Nakamura et al. 2016]({{ site.baseurl }}/assets/papers/nakamura_2016.pdf) and in-class [slides explaining paper]({{ site.baseurl }}/assets/lectures/02_limbs.pdf). Also watch this [video about CRISPR](https://www.youtube.com/watch?v=MnYppmstxIs).
-- Aug. 26: How to skype with scientists. Additional reading [Zimmer 2016](http://www.nytimes.com/2016/08/18/science/from-fins-into-hands-scientists-discover-a-deep-evolutionary-link.html); or download a [pdf version]({{ site.baseurl }}/assets/papers/zimmer_2016.pdf)
+- Aug. 21: No Class
+- Aug. 23: Origins of tetrapods [lecture pdf]({{ site.baseurl }}/assets/lectures/01_origins_2016.pdf)
+    - Also discuss paper: [Sallan et al.]({{site.baseurl}}/assets/papers/sallan.pdf)
+    - For all the gory details use the [supplement]({{site.baseurl}}/assets/papers/sallan_supp.pdf);
+    - This [perspective]({{site.baseurl}}/assets/papers/sallan_perspective.pdf) can help you see the big picture
+- Aug. 25: Skype discussion: [Lauren Sallan](http://www.laurensallan.com/)
 
-- Aug. 29: Origins of reptiles and amphibians [lecture pdf]({{ site.baseurl }}/assets/lectures/03_repamph.pdf)
-- Aug. 31: Phylogenetics of squamates [reading]({{ site.baseurl }}/assets/papers/pyron_2016.pdf)
-- Sept. 2: Skype discussion: [Alex Pyron](http://www.colubroid.org/)
-You can also read this related paper by [Losos et al](http://lososlab.oeb.harvard.edu/files/lososlab/files/losos_et_al._who_speaks_with_forked_tongue._2012.pdf)
+- Aug. 28: Origins of reptiles and amphibians [lecture pdf]({{ site.baseurl }}/assets/lectures/03_repamph.pdf)
+- Aug. 30: Read paper: [Pyron 2017]({{ site.baseurl }}/assets/papers/pyron_2016.pdf).
+    - You can also read this related paper by [Losos et al](http://lososlab.oeb.harvard.edu/files/lososlab/files/losos_et_al._who_speaks_with_forked_tongue._2012.pdf)
+- Sept. 1: Skype discussion: [Alex Pyron](http://www.colubroid.org/)
 
-- Sept. 5: Labor day
-- Sept. 7: Biogeography [lecture pdf]({{ site.baseurl }}/assets/lectures/04_biogeog.pdf)
-- Sept. 9: Skype discussion: [Frank Burbrink](http://www.amnh.org/our-research/staff-directory/frank-t.-burbrink/). Reading is [Burbrink et al. 2015]({{ site.baseurl }}/assets/papers/burbrinketal_2015.pdf)
+- Sept. 4: No class, labor day
+- Sept. 6: Biogeography [lecture pdf]({{ site.baseurl }}/assets/lectures/04_biogeog.pdf)
+- Sept. 8: Skype discussion: [Adam Leache](http://faculty.washington.edu/leache/wordpress/). Reading is [Grummer and Leache 2017]({{site.baseurl}}/assets/papers/grummer.pdf).
 
-- Sept. 12: Reproduction [lecture pdf]({{ site.baseurl }}/assets/lectures/05_reproductionI.pdf)
-- Sept. 14: The evolution of reproductive diversity [Portik and Blackburn 2016]({{ site.baseurl }}/assets/papers/Portik_et_al-2016-Evolution.pdf)
-- Sept. 16: Skype discussion: [David Blackburn](http://www.blackburnlab.org/)
+- Sept. 11: Reproduction [lecture pdf]({{ site.baseurl }}/assets/lectures/05_reproductionI.pdf)
+- Sept. 13: Read paper:
+- Sept. 15: Skype discussion: [Frank Burbrink](http://www.amnh.org/our-research/staff-directory/frank-t.-burbrink/).
 
-- Sept. 19: Development [lecture pdf]({{ site.baseurl }}/assets/lectures/06_development.pdf)
-- Sept. 21: How do new parasites form? [Falk et al. 2016]({{ site.baseurl }}/assets/papers/Falk_et_al-2015-Evolution.pdf)
-- Sept. 23: Skype discussion: [Susan Perkins](http://www.susanperkins.net/)
+- Sept. 18: Development [lecture pdf]({{ site.baseurl }}/assets/lectures/06_development.pdf)
+- Sept. 20: Read paper: [Sanger et al. 2015]({{ site.baseurl }}/assets/papers/sanger_2015.pdf)
+- Sept. 22: Skype discussion: [Thom Sanger](http://anolisevodevo.com/Sanger_Loyola_webpage/Home.html)
 
-- Sept. 26: Homeostasis I [lecture pdf]({{ site.baseurl }}/assets/lectures/07_homeostasis.pdf)
-- Sept. 28: Phallus evolution [Sanger et al. 2015]({{ site.baseurl }}/assets/papers/sanger_2015.pdf)
-- Sept. 30: Skype discussion: [Thom Sanger](http://anolisevodevo.com/Sanger_Loyola_webpage/Home.html)
+- Sept. 25: Homeostasis I [lecture pdf]({{ site.baseurl }}/assets/lectures/08_makeup.pdf)
+- Sept. 27: Read paper: []()
+- Sept. 29: Skype discussion: [Kelly Zamudio](http://www.eeb.cornell.edu/zamudio/KZ_Home/Welcome/Welcome.html)
 
-- Oct. 3: Homeostasis II [lecture pdf]({{ site.baseurl }}/assets/lectures/08_makeup.pdf)
-- Oct. 5: Review [pdf]({{ site.baseurl }}/assets/lectures/review.pdf)
-- Oct. 7: Exam I
+- Oct. 2: Homeostasis II [lecture pdf]({{ site.baseurl }}/assets/lectures/08_makeup.pdf)
+- Oct. 4:
+- Oct. 6:
 
-- Oct. 10: Energy Balance [lecture pdf]({{ site.baseurl }}/assets/lectures/09_energy.pdf)
-- Oct. 12: Costs and benefits of thermoregulation [Sears and Angilletta 2015]({{ site.baseurl }}/assets/papers/Sears_Angilletta_2015.pdf)
-- Oct. 14: Skype discussion: [Mike Sears](http://thermalecology.org/)
+- Oct. 9: Energy Balance [lecture pdf]({{ site.baseurl }}/assets/lectures/09_energy.pdf)
+- Oct. 11: Review for exam
+- Oct. 13: Exam 1
 
-- Oct. 17: Biomechanics of feeding [lecture pdf]({{ site.baseurl }}/assets/lectures/10_biomechanics.pdf)
-- Oct. 19: Evolution of caecilians [Sherratt et al. 2014]({{ site.baseurl }}/assets/papers/sherratt.pdf)
-- Oct. 21: Skype discussion: [Emma Sherratt](http://www.emmasherratt.com/)
+- Oct. 16: Biomechanics of feeding [lecture pdf]({{ site.baseurl }}/assets/lectures/10_biomechanics.pdf)
+- Oct. 18: Evolution of caecilians [Sherratt et al. 2014]({{ site.baseurl }}/assets/papers/sherratt.pdf)
+- Oct. 20: Skype discussion: [Emma Sherratt](http://www.emmasherratt.com/)
 
-- Oct. 24: Spatial Ecology [lecture pdf]({{ site.baseurl }}/assets/lectures/11_movement.pdf)
-- Oct. 26: Paper from Josef Uyeda [pdf]({{ site.baseurl }}/assets/papers/uyeda.pdf)
-- Oct. 28: Live discussion: [Josef Uyeda](http://uyedaj.github.io/)
+- Oct. 23: Spatial Ecology [lecture pdf]({{ site.baseurl }}/assets/lectures/11_movement.pdf)
+- Oct. 25: Read paper
+- Oct. 27: Skype discussion: [Matt Gifford](http://giffordlab.weebly.com/)
 
-- Oct. 31: Ecosystems [lecture pdf]({{ site.baseurl }}/assets/lectures/12_herpsInEcosystems.pdf)
-- Nov. 2: Paper from Jonathan Losos [pdf]({{ site.baseurl }}/assets/papers/stuart.pdf)
-- Nov. 4: Skype discussion: [Jonathan Losos](http://lososlab.oeb.harvard.edu/)
+- Oct. 30: Ecosystems [lecture pdf]({{ site.baseurl }}/assets/lectures/12_herpsInEcosystems.pdf)
+- Nov. 1: Read paper
+- Nov. 3: Skype discussion: [Shane Campbell-Staton](https://scholar.harvard.edu/shane.campbellstaton/home)
 
-- Nov. 7: No class
-- Nov. 9: No class
-- Nov. 11: Ecosystems continued - lecture posted [above]({{ site.baseurl }}/assets/lectures/12_herpsInEcosystems.pdf)
+- Nov. 6: Communication [lecture pdf]({{ site.baseurl }}/assets/lectures/13_communication.pdf)
+- Nov. 8: Read paper
+- Nov. 10: Skype discussion: [Michele Johnson](https://inside.trinity.edu/directory/mjohnso9)
 
-- Nov. 14: Communication [lecture pdf]({{ site.baseurl }}/assets/lectures/13_communication.pdf)
-- Nov. 16: Paper from Daniel Caetano [pdf]({{ site.baseurl }}/assets/papers/caetano.pdf)
-- Nov. 18: Live discussion: [Daniel Caetano](http://caetanods.weebly.com/)
+- Nov. 13: Conservation [lecture pdf]({{ site.baseurl }}/assets/lectures/14_conservation.pdf)
+- Nov. 15: Read paper
+- Nov. 17: Skype discussion: [Jamie Voyles](http://voyleslab.weebly.com/)
 
-- Nov. 21: No class - Thanksgiving break
-- Nov. 23: No class - Thanksgiving break
-- Nov. 25: No class - Thanksgiving break
+- Nov. 20: No class - Thanksgiving break
+- Nov. 22: No class - Thanksgiving break
+- Nov. 24: No class - Thanksgiving break
 
-- Nov. 28: Conservation [lecture pdf]({{ site.baseurl }}/assets/lectures/14_conservation.pdf)
-- Nov. 30: Paper from Kayla Hardwick [pdf]({{ site.baseurl }}/assets/papers/hardwicketal_2015.pdf)
-- Dec. 2: Skype discussion: [Kayla Hardwick] (https://kaylamhardwick.wordpress.com/)
+- Nov. 28:
+- Nov. 30:
+- Dec. 2:
 
 - Dec. 5: Cane toads film
-- Dec. 7: No class
-- Dec. 9: No class
+- Dec. 7: Review
+- Dec. 9:  Instuctions for final exam
