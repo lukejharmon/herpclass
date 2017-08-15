@@ -5,7 +5,7 @@ title: Class syllabus
 
 ### Herpetology (Biology 489)
 
-## University of Idaho, Fall 2016
+## University of Idaho, Fall 2017
 
 Lecture:
 
@@ -26,6 +26,12 @@ Instructor:
 - Office: LSS 347
 - Office hours: after class, or make an appointment
 
+
+Teaching assistant:
+
+- Samuel McCauley
+- [mcca6713@vandals.uidaho.edu](mailto:mcca6713@vandals.uidaho.edu)
+
 Textbooks:
 
 Stebbins, R. C. 2003. [A Field guide to Western Reptiles and Amphibians](https://www.amazon.com/Western-Reptiles-Amphibians-Peterson-Guides/dp/0395982723), 3rd edition. Houghton Mifflin.
@@ -42,9 +48,9 @@ Additional required reading will be available here.
 
 Important dates:
 
-- Exam I	1:30 PM, October 14
+- Exam I	1:30 PM, October 13
 - Exam II	To be determined
-- Presentations	November 17 (during LAB!)
+- Presentations	November 6 (during lab)
 - Final will be take-home, during finals week
 
 Internet resources:
