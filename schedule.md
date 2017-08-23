@@ -4,13 +4,13 @@ title: Lecture schedule
 ---
 
 - Aug. 21: No Class
-- Aug. 23: Origins of tetrapods [lecture pdf]({{ site.baseurl }}/assets/lectures/01_origins_2016.pdf)
+- Aug. 23: Intro to class [lecture pdf]({{ site.baseurl }}/assets/lectures/01_origins_2016.pdf)
     - Also discuss paper: [Sallan et al.]({{site.baseurl}}/assets/papers/sallan.pdf)
     - For all the gory details use the [supplement]({{site.baseurl}}/assets/papers/sallan_supp.pdf);
     - This [perspective]({{site.baseurl}}/assets/papers/sallan_perspective.pdf) can help you see the big picture
 - Aug. 25: Skype discussion: [Lauren Sallan](http://www.laurensallan.com/)
 
-- Aug. 28: Origins of reptiles and amphibians [lecture pdf]({{ site.baseurl }}/assets/lectures/03_repamph.pdf)
+- Aug. 28: Origins of herps [lecture pdf]({{ site.baseurl }}/assets/lectures/03_repamph.pdf)
 - Aug. 30: Read paper: [Pyron 2017]({{ site.baseurl }}/assets/papers/pyron_2016.pdf).
     - You can also read this related paper by [Losos et al](http://lososlab.oeb.harvard.edu/files/lososlab/files/losos_et_al._who_speaks_with_forked_tongue._2012.pdf)
 - Sept. 1: Skype discussion: [Alex Pyron](http://www.colubroid.org/)
