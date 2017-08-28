@@ -4,7 +4,7 @@ title: Lecture schedule
 ---
 
 - Aug. 21: No Class
-- Aug. 23: Intro to class [lecture pdf]({{ site.baseurl }}/assets/lectures/01_origins_2016.pdf)
+- Aug. 23: Intro to class [lecture pdf]({{ site.baseurl }}/assets/lectures/01_intro_2017.pdf)
     - Also discuss paper: [Sallan et al.]({{site.baseurl}}/assets/papers/sallan.pdf)
     - For all the gory details use the [supplement]({{site.baseurl}}/assets/papers/sallan_supp.pdf);
     - This [perspective]({{site.baseurl}}/assets/papers/sallan_perspective.pdf) can help you see the big picture
