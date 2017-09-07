@@ -16,7 +16,7 @@ title: Lecture schedule
 - Sept. 1: Skype discussion: [Alex Pyron](http://www.colubroid.org/)
 
 - Sept. 4: No class, labor day
-- Sept. 6: Biogeography [lecture pdf]({{ site.baseurl }}/assets/lectures/04_biogeog.pdf)
+- Sept. 6: Biogeography [lecture pdf]({{ site.baseurl }}/assets/lectures/03_biogeog_2017.pdf)
 - Sept. 8: Skype discussion: [Adam Leache](http://faculty.washington.edu/leache/wordpress/). Reading is [Grummer and Leache 2017]({{site.baseurl}}/assets/papers/grummer.pdf).
 
 - Sept. 11: Reproduction [lecture pdf]({{ site.baseurl }}/assets/lectures/05_reproductionI.pdf)
