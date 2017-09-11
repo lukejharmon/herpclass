@@ -20,7 +20,7 @@ title: Lecture schedule
 - Sept. 8: Skype discussion: [Adam Leache](http://faculty.washington.edu/leache/wordpress/). Reading is [Grummer and Leache 2017]({{site.baseurl}}/assets/papers/grummer.pdf).
 
 - Sept. 11: Reproduction [lecture pdf]({{ site.baseurl }}/assets/lectures/04_reproduction_2017.pdf)
-- Sept. 13: Read paper: Coming soon!
+- Sept. 13: Read paper: [Burbrink et al. 2016]({{ site.baseurl }}/assets/papers/Burbrink_et_al-2016-Ecology_Letters.pdf)
 - Sept. 15: Skype discussion: [Frank Burbrink](http://www.amnh.org/our-research/staff-directory/frank-t.-burbrink/).
 
 - Sept. 18: Development [lecture pdf]({{ site.baseurl }}/assets/lectures/06_development.pdf)
