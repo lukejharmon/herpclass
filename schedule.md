@@ -23,12 +23,12 @@ title: Lecture schedule
 - Sept. 13: Read paper: [Burbrink et al. 2016]({{ site.baseurl }}/assets/papers/Burbrink_et_al-2016-Ecology_Letters.pdf)
 - Sept. 15: Skype discussion: [Frank Burbrink](http://www.amnh.org/our-research/staff-directory/frank-t.-burbrink/).
 
-- Sept. 18: Development [lecture pdf]({{ site.baseurl }}/assets/lectures/06_development.pdf)
+- Sept. 18: Development [lecture pdf]({{ site.baseurl }}/assets/lectures/04_development_2017.pdf)
 - Sept. 20: Read paper: [Sanger et al. 2015]({{ site.baseurl }}/assets/papers/sanger_2015.pdf)
 - Sept. 22: Skype discussion: [Thom Sanger](http://anolisevodevo.com/Sanger_Loyola_webpage/Home.html)
 
 - Sept. 25: Homeostasis I [lecture pdf]({{ site.baseurl }}/assets/lectures/08_makeup.pdf)
-- Sept. 27: Read paper: []()
+- Sept. 27: Read paper: [Zamudio et al. 2016]({{ site.baseurl }}/assets/papers/zamudio.pdf)
 - Sept. 29: Skype discussion: [Kelly Zamudio](http://www.eeb.cornell.edu/zamudio/KZ_Home/Welcome/Welcome.html)
 
 - Oct. 2: Homeostasis II [lecture pdf]({{ site.baseurl }}/assets/lectures/08_makeup.pdf)
