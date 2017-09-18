@@ -33,10 +33,10 @@ title: Lecture schedule
 
 - Oct. 2: Homeostasis II [lecture pdf]({{ site.baseurl }}/assets/lectures/08_makeup.pdf)
 - Oct. 4:
-- Oct. 6:
+- Oct. 6: Review for exam
 
 - Oct. 9: Energy Balance [lecture pdf]({{ site.baseurl }}/assets/lectures/09_energy.pdf)
-- Oct. 11: Review for exam
+- Oct. 11:
 - Oct. 13: Exam 1
 
 - Oct. 16: Biomechanics of feeding [lecture pdf]({{ site.baseurl }}/assets/lectures/10_biomechanics.pdf)
