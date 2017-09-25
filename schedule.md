@@ -32,7 +32,7 @@ title: Lecture schedule
 - Sept. 29: Skype discussion: [Kelly Zamudio](http://www.eeb.cornell.edu/zamudio/KZ_Home/Welcome/Welcome.html)
 
 - Oct. 2: Homeostasis II [lecture pdf]({{ site.baseurl }}/assets/lectures/07_homeostasis_2017.pdf)
-- Oct. 4: (Erica Crespi)[https://labs.wsu.edu/crespi/]: read paper [Hall et al. 2017](hall2017.pdf)
+- Oct. 4: [Erica Crespi](https://labs.wsu.edu/crespi/): read paper [Hall et al. 2017](hall2017.pdf)
 - Oct. 6: Review for exam
 
 - Oct. 9: Energy Balance [lecture pdf]({{ site.baseurl }}/assets/lectures/09_energy.pdf)
