@@ -44,8 +44,8 @@ title: Lecture schedule
 - Oct. 20: Skype discussion: [Emma Sherratt](http://www.emmasherratt.com/)
 
 - Oct. 23: Spatial Ecology [lecture pdf]({{ site.baseurl }}/assets/lectures/11_movement.pdf)
-- Oct. 25: Read paper
-- Oct. 27: Skype discussion: [Matt Gifford](http://giffordlab.weebly.com/)
+- Oct. 25: Skype discussion: [Matt Gifford](http://giffordlab.weebly.com/) - read this [paper]({{ site.baseurl }}/assets/papers/gifford.pdf)
+- Oct. 27: Live discussion: [Clint Collins](https://saxicoly.wixsite.com/clintecollins) - read this [paper]({{ site.baseurl }}/assets/papers/Collins_et_al-2015-Functional_Ecology.pdf)
 
 - Oct. 30: Ecosystems [lecture pdf]({{ site.baseurl }}/assets/lectures/12_herpsInEcosystems.pdf)
 - Nov. 1: Read paper
