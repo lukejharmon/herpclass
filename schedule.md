@@ -48,7 +48,7 @@ title: Lecture schedule
 - Oct. 27: Live discussion: [Clint Collins](https://saxicoly.wixsite.com/clintecollins) - read this [paper]({{ site.baseurl }}/assets/papers/Collins_et_al-2015-Functional_Ecology.pdf)
 
 - Oct. 30: Ecosystems [lecture pdf]({{ site.baseurl }}/assets/lectures/12_herpsInEcosystems.pdf)
-- Nov. 1: Read paper [Campbell-Staton et al. 2017]({{ site.baseurl }}/assets/papers/campbellstaton2017.pdf)
+- Nov. 1: Read paper [Campbell-Staton et al. 2017]({{ site.baseurl }}/assets/papers/campbellstaton2017.pdf) - see also [news article](http://www.sciencemag.org/news/2017/08/cold-snap-makes-lizards-evolve-just-few-months)
 - Nov. 3: Skype discussion: [Shane Campbell-Staton](https://scholar.harvard.edu/shane.campbellstaton/home)
 
 - Nov. 6: Communication [lecture pdf]({{ site.baseurl }}/assets/lectures/13_communication.pdf)
