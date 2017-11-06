@@ -52,7 +52,7 @@ title: Lecture schedule
 - Nov. 3: Skype discussion: [Shane Campbell-Staton](https://scholar.harvard.edu/shane.campbellstaton/home)
 
 - Nov. 6: Communication [lecture pdf]({{ site.baseurl }}/assets/lectures/13_communication.pdf)
-- Nov. 8: Read paper
+- Nov. 8: Read paper [Johnson et al.]({{ site.baseurl }}/assets/papers/johnson.pdf)
 - Nov. 10: Skype discussion: [Michele Johnson](https://inside.trinity.edu/directory/mjohnso9)
 
 - Nov. 13: Conservation [lecture pdf]({{ site.baseurl }}/assets/lectures/14_conservation.pdf)
