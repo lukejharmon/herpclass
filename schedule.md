@@ -56,7 +56,7 @@ title: Lecture schedule
 - Nov. 10: Skype discussion: [Michele Johnson](https://inside.trinity.edu/directory/mjohnso9)
 
 - Nov. 13: Conservation [lecture pdf]({{ site.baseurl }}/assets/lectures/14_conservation.pdf)
-- Nov. 15: Read paper
+- Nov. 15: Read paper: [Voyles et al. 2017]({{ site.baseurl }}/assets/papers/voyles2017.pdf)
 - Nov. 17: Skype discussion: [Jamie Voyles](http://voyleslab.weebly.com/)
 
 - Nov. 20: No class - Thanksgiving break
