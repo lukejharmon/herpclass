@@ -68,5 +68,5 @@ title: Lecture schedule
 - Dec. 2:
 
 - Dec. 5: Cane toads film
-- Dec. 7: Read this [Hagey et al. 2017]{http://lukejharmon.github.io/assets/hageyetal2017.pdf}
+- Dec. 7: Read this [Hagey et al. 2017](http://lukejharmon.github.io/assets/hageyetal2017.pdf)
 - Dec. 9:  Discussion with me
