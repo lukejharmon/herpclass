@@ -3,7 +3,23 @@ layout: default
 title: Lecture schedule
 ---
 
-- Aug. 21: No Class
+- Aug. 26: Lecture: Origins of herps
+- Aug. 28: How to read a scientific paper
+- Aug. 30: Skype discussion: TBD
+
+- Sept. 2: No class
+- Sept. 4: Read paper: Jetz and Pyron 2018?
+- Sept. 6: Skype discussion: [Alex Pyron](http://www.colubroid.org/)
+
+- Sept. 9: Lecture: Biogeography
+- Sept. 11: Read paper: Myers et al. 2019 Mol Ecol?
+- Sept. 13: Skype discussion: [Frank Burbrink](http://www.amnh.org/our-research/staff-directory/frank-t.-burbrink/)
+
+
+
+--- OUTDATED ---
+
+
 - Aug. 23: Intro to class [lecture pdf]({{ site.baseurl }}/assets/lectures/01_intro_2017.pdf)
     - Also discuss paper: [Sallan et al.]({{site.baseurl}}/assets/papers/sallan.pdf)
     - For all the gory details use the [supplement]({{site.baseurl}}/assets/papers/sallan_supp.pdf);

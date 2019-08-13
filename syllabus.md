@@ -11,7 +11,7 @@ Lecture:
 
 - Monday, Wednesday, Friday
 - 1:30-2:20 pm
-- TLC 045
+- LSS 163
 
 Lab:
 
@@ -36,6 +36,12 @@ Textbooks:
 
 Stebbins, R. C. 2003. [A Field guide to Western Reptiles and Amphibians](https://www.amazon.com/Western-Reptiles-Amphibians-Peterson-Guides/dp/0395982723), 3rd edition. Houghton Mifflin.
 
+OR
+
+Stebbins, R. C. and S. M. McGinnis. 2018. [A Field guide to Western Reptiles and Amphibians](https://www.amazon.com/Western-Reptiles-Amphibians-Peterson-Guides/dp/0395982723), 4th edition. Houghton Mifflin.
+
+
+
 It is helpful, but not required, to have a herpetology textbook, either:
 
 [Herpetology by Pough et al.](https://www.amazon.com/Herpetology-Fourth-F-Harvey-Pough/dp/1605352330/ref=sr_1_2?s=books&ie=UTF8&qid=1471975917&sr=1-2&keywords=herpetology), 4th Edition, 2015
@@ -48,9 +54,9 @@ Additional required reading will be available here.
 
 Important dates:
 
-- Exam I	1:30 PM, October 13
+- Exam I	1:30 PM, October 25
 - Exam II	To be determined
-- Presentations	November 6 (during lab)
+- Presentations	November 21 (during lab)
 - Final will be take-home, during finals week
 
 Internet resources:
