@@ -5,7 +5,7 @@ title: Class syllabus
 
 ### Herpetology (Biology 489)
 
-## University of Idaho, Fall 2017
+## University of Idaho, Fall 2019
 
 Lecture:
 
@@ -75,12 +75,12 @@ This course has three goals.  First, I want to introduce you to the diversity of
 Grading: 	
 
 - Assignment, % of grade
-- Participation in Friday Skypes, 15%
+- Class assignments, 20%
 - Group research proposal, 10%
 - Lab,	25%
 - Exam I, 15%
 - Exam II, 15%
-- Final exam, 20%
+- Final exam, 15%
 - Total, 100%
 
 Plagiarism:
