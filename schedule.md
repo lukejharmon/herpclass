@@ -4,7 +4,7 @@ title: Lecture schedule
 ---
 
 - Week 1 [assignment instructions]({{ site.baseurl }}/assignment1/)
-- Aug. 26: Lecture: Origins of reptiles and amphibians [pdf]({{ site.baseurl }}/assets/lectures/01_origins_2019.pdf)
+- Aug. 26: Lecture: Origins of reptiles and amphibians [slides](https://docs.google.com/presentation/d/1sOpBvvi2Jh1BpBckbkt2t3EbESO48bkXtwKFqKYrMOQ/edit?usp=sharing)
 - Aug. 28: Read paper: [Anderson et al. 2008]({{ site.baseurl }}/assets/papers/frogamander.pdf)
 - Aug. 30: Activity: How read a paper and ask good questions
 
