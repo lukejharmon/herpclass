@@ -10,11 +10,11 @@ title: Lecture schedule
 
 - Week 2 [assignment instructions]({{ site.baseurl }}/assignment2/)
 - Sept. 2: No class
-- Sept. 4: Read paper: [Jetz and Pyron 2018]({{ site.baseurl }}/assets/papers/)
+- Sept. 4: Read paper: [Jetz and Pyron 2018]({{ site.baseurl }}/assets/papers/Jetz_Pyron_2018.pdf)
 - Sept. 6: Skype discussion: [Alex Pyron](http://www.colubroid.org/)
 
 - Sept. 9: Lecture: Biogeography
-- Sept. 11: Read paper: Myers et al. 2019 Mol Ecol?
+- Sept. 11: Read paper: [Myers et al. 2019]({{ site.baseurl }}/assets/papers/myers2019.pdf)
 - Sept. 13: Skype discussion: [Frank Burbrink](http://www.amnh.org/our-research/staff-directory/frank-t.-burbrink/)
 
 - Sept. 16: Lecture: Reproduction
