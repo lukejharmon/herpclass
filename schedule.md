@@ -3,16 +3,17 @@ layout: default
 title: Lecture schedule
 ---
 
-- Week 1 [assignment instructions]({{ site.baseurl }}/assignment1/)
+- Week 1 [assignment instructions]({{ site.baseurl }}/assignments/assignment1/)
 - Aug. 26: Lecture: Origins of reptiles and amphibians [slides](https://docs.google.com/presentation/d/1sOpBvvi2Jh1BpBckbkt2t3EbESO48bkXtwKFqKYrMOQ/edit?usp=sharing)
 - Aug. 28: Read paper: [Anderson et al. 2008]({{ site.baseurl }}/assets/papers/frogamander.pdf)
 - Aug. 30: Activity: How read a paper and ask good questions
 
-- Week 2 [assignment instructions]({{ site.baseurl }}/assignment2/)
+- Week 2 [assignment instructions]({{ site.baseurl }}/assignments/assignment2/)
 - Sept. 2: No class
 - Sept. 4: Read paper: [Jetz and Pyron 2018]({{ site.baseurl }}/assets/papers/Jetz_Pyron_2018.pdf)
 - Sept. 6: Skype discussion: [Alex Pyron](http://www.colubroid.org/)
 
+- Week 3 [assignment instructions]({{ site.baseurl }}/assignments/assignment3/)
 - Sept. 9: Lecture: Biogeography
 - Sept. 11: Read paper: [Myers et al. 2019]({{ site.baseurl }}/assets/papers/myers2019.pdf)
 - Sept. 13: Skype discussion: [Frank Burbrink](http://www.amnh.org/our-research/staff-directory/frank-t.-burbrink/)
