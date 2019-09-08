@@ -14,7 +14,7 @@ title: Lecture schedule
 - Sept. 6: Skype discussion: [Alex Pyron](http://www.colubroid.org/)
 
 - Week 3 [assignment instructions]({{ site.baseurl }}/assignments/assignment3/)
-- Sept. 9: Lecture: Biogeography
+- Sept. 9: Lecture: Biogeography [slides](https://docs.google.com/presentation/d/18YXHEW0YW1eDBKr6DU60Qlw2fC_kcKCdToG5Vyi7jgk/edit?usp=sharing)
 - Sept. 11: Read paper: [Myers et al. 2019]({{ site.baseurl }}/assets/papers/myers2019.pdf)
 - Sept. 13: Skype discussion: [Frank Burbrink](http://www.amnh.org/our-research/staff-directory/frank-t.-burbrink/)
 
