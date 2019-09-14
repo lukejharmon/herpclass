@@ -19,7 +19,7 @@ title: Lecture schedule
 - Sept. 13: Skype discussion: [Frank Burbrink](http://www.amnh.org/our-research/staff-directory/frank-t.-burbrink/)
 
 - Sept. 16: Lecture: Reproduction
-- Sept. 18:
+- Sept. 18: Read paper: [Zamudio et al. 2016]({{ site.baseurl }}/assets/papers/zamudio.pdf)
 - Sept. 20: Skype discussion: TBD
 
 - Sept. 23: Lecture: Homeostasis
