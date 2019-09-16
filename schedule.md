@@ -19,7 +19,7 @@ title: Lecture schedule
 - Extra: [Guide to snake IDs](https://drive.google.com/file/d/1fM4IEXWlqWeJuOZ7yMfGBkjNk9Z4xkN_/view?usp=sharing)
 - Sept. 13: Skype discussion: [Frank Burbrink](http://www.amnh.org/our-research/staff-directory/frank-t.-burbrink/)
 
-- Sept. 16: Lecture: Reproduction
+- Sept. 16: Lecture: [Reproduction](https://docs.google.com/presentation/d/1Ou4EF0bJhiN6uZrBvf0mNWU9ZXgVvmOa1d8C-Ffgk6M/edit?usp=sharing)
 - Sept. 18: Skype discussion: [Kelly Zamudio](https://ecologyandevolution.cornell.edu/kelly-zamudio)
 - Please also read paper [Zamudio et al. 2016]({{ site.baseurl }}/assets/papers/zamudio.pdf)
 - Sept. 20: Student-led paper analysis
