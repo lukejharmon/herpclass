@@ -16,11 +16,13 @@ title: Lecture schedule
 - Week 3 [assignment instructions]({{ site.baseurl }}/assignments/assignment3/)
 - Sept. 9: Lecture: Biogeography [slides](https://docs.google.com/presentation/d/18YXHEW0YW1eDBKr6DU60Qlw2fC_kcKCdToG5Vyi7jgk/edit?usp=sharing)
 - Sept. 11: Read paper: [Myers et al. 2019]({{ site.baseurl }}/assets/papers/myers2019.pdf)
+- Extra: [Guide to snake IDs](https://drive.google.com/file/d/1fM4IEXWlqWeJuOZ7yMfGBkjNk9Z4xkN_/view?usp=sharing)
 - Sept. 13: Skype discussion: [Frank Burbrink](http://www.amnh.org/our-research/staff-directory/frank-t.-burbrink/)
 
 - Sept. 16: Lecture: Reproduction
-- Sept. 18: Read paper: [Zamudio et al. 2016]({{ site.baseurl }}/assets/papers/zamudio.pdf)
-- Sept. 20: Skype discussion: TBD
+- Sept. 18: Skype discussion: [Kelly Zamudio](https://ecologyandevolution.cornell.edu/kelly-zamudio)
+- Please also read paper [Zamudio et al. 2016]({{ site.baseurl }}/assets/papers/zamudio.pdf)
+- Sept. 20: Student-led paper analysis
 
 - Sept. 23: Lecture: Homeostasis
 - Sept. 25: Read paper: Huey and Kingsolver 2019
