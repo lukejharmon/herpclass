@@ -27,7 +27,7 @@ title: Lecture schedule
 
 - Week 5: No assignment
 - Sept. 23: Lecture: [Homeostasis](https://docs.google.com/presentation/d/1GWhf0ykJKhdhWf3YwS2XY29ifPZj6d46ThFkMqDLV-w/edit?usp=sharing)
-- Sept. 25: Read paper: [Huey and Kingsolver 2019]({{ site.baseurl }}/assets/huey_paper.pdf)
+- Sept. 25: Read paper: [Huey and Kingsolver 2019]({{ site.baseurl }}/assets/papers/huey_paper.pdf)
 - Sept. 27: Skype discussion: [Ray Huey](http://faculty.washington.edu/hueyrb/)
 
 - Sept. 30: Lecture: Development
