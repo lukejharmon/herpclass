@@ -25,9 +25,10 @@ title: Lecture schedule
 - Please also read paper [Zamudio et al. 2016]({{ site.baseurl }}/assets/papers/zamudio.pdf)
 - Sept. 20: Student-led paper analysis
 
-- Sept. 23: Lecture: Homeostasis
-- Sept. 25: Read paper: Huey and Kingsolver 2019
-- Sept. 27: Skype discussion: Ray Huey
+- Week 5: No assignment
+- Sept. 23: Lecture: [Homeostasis](https://docs.google.com/presentation/d/1GWhf0ykJKhdhWf3YwS2XY29ifPZj6d46ThFkMqDLV-w/edit?usp=sharing)
+- Sept. 25: Read paper: [Huey and Kingsolver 2019]({{ site.baseurl }}/assets/huey.pdf)
+- Sept. 27: Skype discussion: [Ray Huey](http://faculty.washington.edu/hueyrb/)
 
 - Sept. 30: Lecture: Development
 - Oct. 2:
