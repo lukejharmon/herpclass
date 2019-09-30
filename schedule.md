@@ -30,8 +30,9 @@ title: Lecture schedule
 - Sept. 25: Read paper: [Huey and Kingsolver 2019]({{ site.baseurl }}/assets/papers/huey_paper.pdf)
 - Sept. 27: Skype discussion: [Ray Huey](http://faculty.washington.edu/hueyrb/)
 
+- Week 6: No assignment
 - Sept. 30: Lecture: [Development](https://docs.google.com/presentation/d/1r4k_al7UrSsp9Yq4cbjqHJlmNMxlI1vmvmsLDg6p_iA/edit?usp=sharing)
-- Oct. 2: Read paper: [Levis et al. 2018]({{ site.baseurl }}/assets/papers/Levis_2018_Nature_Ecology_&_Evolution)
+- Oct. 2: Read paper: [Levis et al. 2018]({{ site.baseurl }}/assets/papers/Levis_2018_Nature_Ecology_&_Evolution.pdf)
 - Oct. 4: Skype discussion: [David Pfennig](http://labs.bio.unc.edu/pfennig/LabSite/Welcome.html)
 
 - Oct. 7: Lecture: Behavior
