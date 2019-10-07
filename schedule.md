@@ -37,7 +37,7 @@ title: Lecture schedule
 
 - Week 7 [assignment instructions]({{ site.baseurl }}/assignments/assignment7/)
 - Oct. 7: Lecture: [Energetics](https://docs.google.com/presentation/d/1N_GHvb8SX5Y7PGaQU695Jco5jEPeY10nYWC661uxpNk/edit?usp=sharing)
-- Oct. 9: Read paper: [Bush et al. 2016]({{ site.baseurl }}/assets/papers/Bushetal2016_AnimalBehaviour)
+- Oct. 9: Read paper: [Bush et al. 2016]({{ site.baseurl }}/assets/papers/Bushetal2016_AnimalBehaviour.pdf)
 - Oct. 11: Skype discussion: [Michele Johnson](https://www.johnsonlizardlab.org/)
 
 - Oct. 14: Lecture: Behavior
