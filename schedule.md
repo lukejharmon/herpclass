@@ -35,11 +35,12 @@ title: Lecture schedule
 - Oct. 2: Read paper: [Levis et al. 2018]({{ site.baseurl }}/assets/papers/Levis_2018_Nature_Ecology_&_Evolution.pdf)
 - Oct. 4: Skype discussion: [David Pfennig](http://labs.bio.unc.edu/pfennig/LabSite/Welcome.html)
 
-- Oct. 7: Lecture: Behavior
-- Oct. 9: Read paper: Bush et al. 2016 Animal Behavior
-- Oct. 11: Skype discussion: Michele Johnson
+- Week 7 [assignment instructions]({{ site.baseurl }}/assignments/assignment7/)
+- Oct. 7: Lecture: [Energetics](https://docs.google.com/presentation/d/1N_GHvb8SX5Y7PGaQU695Jco5jEPeY10nYWC661uxpNk/edit?usp=sharing)
+- Oct. 9: Read paper: [Bush et al. 2016]({{ site.baseurl }}/assets/papers/Bushetal2016_AnimalBehaviour)
+- Oct. 11: Skype discussion: [Michele Johnson](https://www.johnsonlizardlab.org/)
 
-- Oct. 14: Lecture: Behavioral Ecology
+- Oct. 14: Lecture: Behavior
 - Oct. 16: Read paper: Kamath et al. 2018 Proc B.
 - Oct. 18: Skype discussion: Ambika Kamath
 
