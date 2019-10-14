@@ -40,12 +40,13 @@ title: Lecture schedule
 - Oct. 9: Read paper: [Bush et al. 2016]({{ site.baseurl }}/assets/papers/Bushetal2016_AnimalBehaviour.pdf)
 - Oct. 11: Skype discussion: [Michele Johnson](https://www.johnsonlizardlab.org/)
 
+- Week 8 [assignment instructions]({{ site.baseurl }}/assignments/assignment7/)
 - Oct. 14: Lecture: Behavior
-- Oct. 16: Read paper: Kamath et al. 2018 Proc B.
-- Oct. 18: Skype discussion: Ambika Kamath
+- Oct. 16: Read paper: [Kamath et al. 2018]({{ site.baseurl }}/assets/papers/kamath.pdf)
+- Oct. 18: Skype discussion: [Ambika Kamath](https://ambikamath.wordpress.com/)
 
-- Oct. 21: TBD
-- Oct. 23: TBD
+- Oct. 21: Class cancelled
+- Oct. 23: Class cancelled
 - Oct. 25: Exam 1
 
 - Oct. 28: Lecture: Biomechanics
