@@ -41,7 +41,7 @@ title: Lecture schedule
 - Oct. 11: Skype discussion: [Michele Johnson](https://www.johnsonlizardlab.org/)
 
 - Week 8 [assignment instructions]({{ site.baseurl }}/assignments/assignment7/)
-- Oct. 14: Lecture: Behavior
+- Oct. 14: Lecture: [Behavior](https://docs.google.com/presentation/d/1IEY_XJt6_vwrCv5pIDjA7kjlu_70CMD5uylORjPtIg0/edit?usp=sharing)
 - Oct. 16: Read paper: [Kamath et al. 2018]({{ site.baseurl }}/assets/papers/kamath.pdf)
 - Oct. 18: Skype discussion: [Ambika Kamath](https://ambikamath.wordpress.com/)
 
