@@ -47,7 +47,7 @@ title: Lecture schedule
 
 - Oct. 21: Class cancelled
 - Oct. 23: Class cancelled
-- Oct. 25: Exam 1
+- Oct. 25: Exam 1 [write questions here](https://drive.google.com/open?id=1CD9sA_hx7iB-S7UWri84cdRSBug5rSED)
 
 - Oct. 28: Lecture: Biomechanics
 - Oct. 30:
