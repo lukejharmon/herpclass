@@ -49,9 +49,9 @@ title: Lecture schedule
 - Oct. 23: Class cancelled
 - Oct. 25: Exam 1 [write questions here](https://drive.google.com/open?id=1CD9sA_hx7iB-S7UWri84cdRSBug5rSED)
 
-- Oct. 28: Lecture: Biomechanics
-- Oct. 30:
-- Nov. 1: Skype discussion: Emma Sherratt
+- Oct. 28: Lecture: [Biomechanics](https://docs.google.com/presentation/d/1KuCMVDgk0DcYeMgDGo677MIRAYcYgV_ZVA8AHoQzzS8/edit?usp=sharing)
+- Oct. 30: Read paper: [Sherratt et al. 2014]({{ site.baseurl }}/assets/papers/sherratt.pdf)
+- Nov. 1: Skype discussion: [Emma Sherratt](http://www.emmasherratt.com/)
 
 - Nov. 4: Lecture: Communication
 - Nov. 6:
