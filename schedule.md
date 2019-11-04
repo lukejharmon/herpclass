@@ -56,7 +56,7 @@ title: Lecture schedule
 
 - Week 11: No assignment
 - Nov. 4: Lecture: [Communication](https://docs.google.com/presentation/d/1jp_snDXvrb1S1ntwFqUnZuk5cMZTf7PdwYba1PRQ5qs/edit?usp=sharing)
-- Nov. 6: Read paper: TBD
+- Nov. 6: Read paper: [Storks and Leal in prep]({{ site.baseurl }}/assets/papers/storks_leal.pdf)
 - Nov. 8: Skype discussion: [Manuel Leal](https://chipojolab.biology.missouri.edu/)
 
 - Nov. 11: Lecture: Genomics
