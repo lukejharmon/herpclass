@@ -49,13 +49,15 @@ title: Lecture schedule
 - Oct. 23: Class cancelled
 - Oct. 25: Exam 1 [write questions here](https://drive.google.com/open?id=1CD9sA_hx7iB-S7UWri84cdRSBug5rSED)
 
+- Week 10: No assignment
 - Oct. 28: Lecture: [Biomechanics](https://docs.google.com/presentation/d/1KuCMVDgk0DcYeMgDGo677MIRAYcYgV_ZVA8AHoQzzS8/edit?usp=sharing)
 - Oct. 30: Read paper: [Sherratt et al. 2014]({{ site.baseurl }}/assets/papers/sherratt.pdf)
 - Nov. 1: Skype discussion: [Emma Sherratt](http://www.emmasherratt.com/)
 
-- Nov. 4: Lecture: Communication
-- Nov. 6:
-- Nov. 8: Skype discussion: Manuel Leal
+- Week 11: No assignment
+- Nov. 4: Lecture: [Communication](https://docs.google.com/presentation/d/1jp_snDXvrb1S1ntwFqUnZuk5cMZTf7PdwYba1PRQ5qs/edit?usp=sharing)
+- Nov. 6: Read paper: TBD
+- Nov. 8: Skype discussion: [Manuel Leal]()
 
 - Nov. 11: Lecture: Genomics
 - Nov. 13:
