@@ -59,13 +59,14 @@ title: Lecture schedule
 - Nov. 6: Read paper: [Storks and Leal in prep]({{ site.baseurl }}/assets/papers/storks_leal.pdf)
 - Nov. 8: Skype discussion: [Manuel Leal](https://chipojolab.biology.missouri.edu/)
 
-- Nov. 11: Class activity: Genomics (part I)
-- Nov. 13: Class activity: Genomics (part II)
-- Nov. 15: Skype discussion: [Shane Campbell-Staton](https://socgen.ucla.edu/people/shane-campbell-staton/)
+- Nov. 11: Lecture: Ecology and ecosystems
+- Nov. 13: Read paper: [Brunner submitted]({{ site.baseurl }}/assets/papers/brunner.pdf)
+- Nov. 15: In-person guest:[Jesse Brunner](https://public.wsu.edu/~jesse.brunner/index.html)
 
-- Nov. 18: Lecture: Ecology and ecosystems
-- Nov. 20: In-person guest: Jesse Brunner
-- Nov. 22: Read paper:  
+
+- Nov. 18: Class activity: Genomics (part I)
+- Nov. 20: Class activity: Genomics (part II)
+- Nov. 22: Skype discussion: [Shane Campbell-Staton](https://socgen.ucla.edu/people/shane-campbell-staton/)
 
 - Nov. 25: BREAK
 - Nov. 27: BREAK
