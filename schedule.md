@@ -64,7 +64,7 @@ title: Lecture schedule
 - Nov. 15: In-person guest:[Jesse Brunner](https://public.wsu.edu/~jesse.brunner/index.html)
 
 
-- Nov. 18: Class activity: Genomics (part I)
+- Nov. 18: Class activity: Genomics (part I) [genomes list](https://docs.google.com/spreadsheets/d/11E3CyT5YByET4Jg8M0Xgv9_8vpIPn2sIIZjJpExrzA8/edit?usp=sharing)
 - Nov. 20: Class activity: Genomics (part II)
 - Nov. 22: Skype discussion: [Shane Campbell-Staton](https://socgen.ucla.edu/people/shane-campbell-staton/)
 
