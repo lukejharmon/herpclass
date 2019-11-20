@@ -65,8 +65,9 @@ title: Lecture schedule
 
 
 - Nov. 18: Class activity: Genomics (part I) [genomes list](https://docs.google.com/spreadsheets/d/11E3CyT5YByET4Jg8M0Xgv9_8vpIPn2sIIZjJpExrzA8/edit?usp=sharing)
-- Nov. 20: Class activity: Genomics (part II)
+- Nov. 20: Class activity: Genomics (part II) Paper for the week: [Campbell-Staton et al. 2017]({{ site.baseurl }}/assets/papers/campbellstaton2017.pdf)
 - Nov. 22: Skype discussion: [Shane Campbell-Staton](https://socgen.ucla.edu/people/shane-campbell-staton/)
+- [Shane's podcast - Biology of superheros](https://thebiologyofsuperheroespodcast.podbean.com/)
 
 - Nov. 25: BREAK
 - Nov. 27: BREAK
