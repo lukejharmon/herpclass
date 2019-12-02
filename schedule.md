@@ -73,9 +73,9 @@ title: Lecture schedule
 - Nov. 27: BREAK
 - Nov. 29: BREAK
 
-- Dec. 2: Lecture: Conservation
-- Dec. 4:
-- Dec. 6: Skype discussion:
+- Dec. 2: Lecture: [Conservation](https://drive.google.com/file/d/1zm7E5Fzf2gT1tKjkHiPPd_wDnOLG9EL2/view?usp=sharing)
+- Dec. 4: Read paper: [Edwards et al. Am Nat]({{ site.baseurl }}/assets/papers/Edwards_etal_2015_AmNat.pdf)
+- Dec. 6: Skype discussion: [Danielle Edwards](http://danedwardslab.com/)
 
 - Dec. 9: TBD
 - Dec. 11: TBD
