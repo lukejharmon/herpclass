@@ -77,8 +77,8 @@ title: Lecture schedule
 - Dec. 4: Read paper: [Edwards et al. Am Nat]({{ site.baseurl }}/assets/papers/Edwards_etal_2015_AmNat.pdf)
 - Dec. 6: Skype discussion: [Danielle Edwards](http://danedwardslab.com/)
 
-- Dec. 9: TBD
-- Dec. 11: TBD
-- Dec. 13: TBD
+- Dec. 9: Introduction to final exam, discussion of rest of the semester
+- Dec. 11: Read paper: [Hagey et al. 2017]({{ site.baseurl }}/assets/papers/hagey.pdf)
+- Dec. 13: Cane toads
 
 - Dec. 18: Final due
