@@ -81,4 +81,4 @@ title: Lecture schedule
 - Dec. 11: Read paper: [Hagey et al. 2017]({{ site.baseurl }}/assets/papers/hagey.pdf)
 - Dec. 13: Cane toads
 
-- Dec. 18: Final due
+- Dec. 18: [Final]({{ site.baseurl }}/final/) due
